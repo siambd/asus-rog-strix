@@ -1,0 +1,18 @@
+.nav-container {
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 30px;
+  /* position: sticky;
+  top: 0; */
+}
+.nav-container a {
+  text-decoration: none;
+  margin-right: 30px;
+  text-transform: uppercase;
+  color: black;
+}
+.nav-container a:hover {
+  color: yellowgreen;
+  letter-spacing: 3px;
+  background-color: white;
+}

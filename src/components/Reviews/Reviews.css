@@ -1,0 +1,19 @@
+.reviews-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+.review-btn {
+  background-color: #5da3fa;
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.review-btn:hover {
+  background-color: #ff9f4a;
+  cursor: grab;
+  letter-spacing: 1px;
+  transition: 0.7s;
+  text-transform: uppercase;
+}

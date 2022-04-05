@@ -1,0 +1,33 @@
+.text-img-conatiner {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin-top: 3rem;
+  background-color: #253898;
+}
+.text-container h1 {
+  font-family: "Rubik Glitch", cursive;
+  font-size: 50px;
+  font-weight: 700;
+  color: #ffff;
+}
+.text-container p {
+  font-family: "Send Flowers", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 50px;
+}
+.image-container img {
+  width: 500px;
+  height: 600px;
+  margin: 30px;
+}
+.liveDemo-btn {
+  padding: 20px;
+  background-color: #6252ef;
+  color: white;
+  font-size: 20px;
+  border: 0;
+}
+.home-reviews-container {
+  display: flex;
+}
