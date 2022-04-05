@@ -22,7 +22,7 @@ const Home = () => {
           <img src="./strix.png" alt="" />
         </div>
       </div>
-      <h1>Customer Reviews (3)</h1>
+      <h1> Few Customer Reviews (3)</h1>
       <div className="home-reviews-container">
         {reviews.slice(0, 3).map((review) => (
           <Review review={review}></Review>
