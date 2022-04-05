@@ -10,7 +10,7 @@
   font-family: 'Mochiy Pop One', sans-serif;
   font-size: 50px;
   font-weight: 700;
-  color: #ffff;
+  color: #f7f7f7;
 }
 .text-container p {
   /* font-family: "Send Flowers", cursive; */
@@ -20,6 +20,7 @@
   font-weight: 400;
   padding: 50px 0 0 20px;
   padding-bottom: 50px;
+  color: white;
 }
 .image-container img {
   width: 600px;
