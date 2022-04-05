@@ -27,17 +27,6 @@ const Dashboard = () => {
   return (
     <div className="dashboard-container">
       <div>
-        <h1>Line Chart</h1>
-        <LineChart width={500} height={400} data={product}>
-          <Line dataKey={"investment"}></Line>
-          <Line dataKey={"sell"}></Line>
-          <XAxis dataKey={"month"}></XAxis>
-          <YAxis></YAxis>
-          <Tooltip></Tooltip>
-        </LineChart>
-      </div>
-
-      <div>
         <h1>BarChart</h1>
         <BarChart width={500} height={400} data={product}>
           <XAxis dataKey={"month"}></XAxis>
@@ -65,6 +54,16 @@ const Dashboard = () => {
           <Bar dataKey="sell" barSize={20} fill="#413ea0" />
           <Line type="monotone" dataKey="revenue" stroke="#ff7300" />
         </ComposedChart>
+      </div>
+      <div>
+        <h1>Line Chart</h1>
+        <LineChart width={500} height={400} data={product}>
+          <Line dataKey={"investment"}></Line>
+          <Line dataKey={"sell"}></Line>
+          <XAxis dataKey={"month"}></XAxis>
+          <YAxis></YAxis>
+          <Tooltip></Tooltip>
+        </LineChart>
       </div>
     </div>
   );

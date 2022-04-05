@@ -3,6 +3,9 @@
   height: 500px;
 }
 .about-title {
-  color: chocolate;
-  font-family: "Rubik Wet Paint", cursive;
+  color: rgb(0, 102, 255);
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+.email{
+  font-family: 'Kanit', sans-serif;
 }

@@ -7,9 +7,9 @@ const Review = (props) => {
     <div className="review-container">
       <div>
         <img src={image} alt="" />
-        <h3>{name}</h3>
+        <h3 className="reviewer-name">{name}</h3>
         <p>{body}</p>
-        <h3>Ratings: {ratings}</h3>
+        <h3 className="rating">Ratings: {ratings}</h3>
       </div>
     </div>
   );

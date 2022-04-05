@@ -3,3 +3,11 @@
   margin-left: 300px;
   width: 700px;
 }
+.blog-box{
+  background-color: rgb(0, 119, 255);
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}

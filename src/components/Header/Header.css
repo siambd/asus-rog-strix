@@ -12,7 +12,7 @@
   color: black;
 }
 .nav-container a:hover {
-  color: yellowgreen;
+  color: #ff4000;
   letter-spacing: 3px;
   background-color: white;
 }

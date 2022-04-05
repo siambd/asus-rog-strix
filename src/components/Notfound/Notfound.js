@@ -6,7 +6,7 @@ const Notfound = () => {
     <div className="not-found">
       <h3 className="title">Page Not Found</h3>
       <img
-        src="https://cdn.pixabay.com/photo/2016/04/24/13/24/error-1349562_960_720.png"
+        src="/404-error.png"
         alt=""
       />
     </div>

@@ -4,11 +4,12 @@ import "./About.css";
 const About = () => {
   return (
     <div className="about">
-      <h1 className="about-title">
-        Want to know more about us please contact.
-      </h1>
+      <h2 className="about-title">
+        Want to know more about us ? Dont think about it just email:
+      </h2>
+      <h3 className="email"> rogcommunity@asus.com</h3>
       <img
-        src="https://images.pexels.com/photos/10335320/pexels-photo-10335320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        src="/rog-logo.png"
         alt=""
       />
     </div>

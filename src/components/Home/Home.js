@@ -12,19 +12,14 @@ const Home = () => {
     <div className="home-container">
       <div className="text-img-conatiner">
         <div className="text-container">
-          <h1 className="headphone-title">Grab Your Favourite HEADPHONES🎧</h1>
+          <h1 className="headphone-title">BOOK YOUR ROG ROG STRIX TODAY <i class="fa-solid fa-house-laptop"></i></h1>
           <p>
-            Are you looking for a wireless earbud-type headset <br /> that
-            delivers an impressive playback time? If your answer is yes, bring
-            home the <br /> <strong>Beats By Dre</strong> <br /> that comes with
-            a carrying case. This carrying case also acts as a 650 mAh portable
-            charger that extends the playback time of these earbuds by up to 15
-            hours
+          <strong>Asus ROG strix</strong> gaming laptops are changing every year. The early days of mobile gaming were largely desktop replacements — clunky chassis, multiple power bricks, and RGB lighting galore. But the top contenders now are different. Manufacturers are finally putting powerful specs in sleeker, more portable, and more professional builds. They have excellent, fast refreshing screens that are necessary for a great gaming experience. 
           </p>
           <button className="liveDemo-btn">Live Demo</button>
         </div>
         <div className="image-container">
-          <img src="./Headphones-Transparent-PNG.png" alt="" />
+          <img src="./strix.png" alt="" />
         </div>
       </div>
       <h1>Customer Reviews (3)</h1>
