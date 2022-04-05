@@ -4,7 +4,7 @@
 This website for analysis a product with the reviews.
 
 - Github link: https://github.com/siambd/asus-rog-strix
-- LiveSite link: 
+- LiveSite link: https://asus-rog-strix.netlify.app/
 
 This repository is used for programming hero assignment 9 submission. 
 
