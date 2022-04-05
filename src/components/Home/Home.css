@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 3fr 1fr;
   margin-top: 3rem;
-  background-color: #ff4000;
+  background-color: #f33;
 }
 .text-container h1 {
 
